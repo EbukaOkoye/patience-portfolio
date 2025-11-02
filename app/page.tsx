@@ -13,6 +13,15 @@ export default function Home() {
             AJAH NDIDI PATIENCE
           </h2>
         </section>
+        <div className="md:w-9/12 mx-auto mt-16">
+          <p className="text-sm md:text-lg lg:text-2xl lg:font-semibold mb-4 mt-8">
+            Copywriter
+          </p>
+          <p className="text-sm md:text-lg lg:text-2xl lg:font-semibold">
+            Email marketer, creative writer, content writer, Email writer,
+            digital marketer.
+          </p>
+        </div>
         <section className="md:w-9/12 mx-auto">
           {/* About Section */}
           <div className="shadow-2xl flex flex-col gap-8 lg:flex-row lg:items-center lg:justify-center mb-4 mt-20 p-4">
@@ -33,16 +42,6 @@ export default function Home() {
                 communication. As a poet, it allows me to establish connections
                 with others on mental, psychological, and, to some degree,
                 physical levels.
-              </p>
-              <h3 className="text-xl lg:text-4xl mt-8 mb-2 font-semibold font-sans">
-                Skills:
-              </h3>
-              <p className="text-sm md:text-lg lg:text-2xl lg:font-semibold mb-4">
-                Copywriter
-              </p>
-              <p className="text-sm md:text-lg lg:text-2xl lg:font-semibold">
-                Email marketer, creative writer, content writer, Email writer,
-                digital marketer.
               </p>
             </div>
           </div>
